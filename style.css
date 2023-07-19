@@ -1,0 +1,79 @@
+body{
+    font-family: 'Bungee Spice', cursive;
+    background-size:contain;
+}
+
+.first_class{
+    color: blue;
+    background-color: purple;
+    text-align: center;
+    margin: top 100px; ;
+    width: 200px;
+    margin-left: 700px;
+}
+
+.pic{
+    height: 400px;
+    width: 800px; 
+    margin-left: 400;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    margin-right: 600px;
+}
+
+.ok{
+height: 300;
+width: 400;
+margin-right: 600px; ;
+
+
+
+}
+
+.ok1{
+   height: 300;
+    width: 400;
+    
+    }
+
+    .ok2{
+  height: 300;
+  width: 400;
+     }
+
+.ok3{
+  height: 300;
+  width: 400;
+ }
+
+.y,.y1,.y2,.y3{
+    height: 100%;
+    width: 80%;
+    margin-right: 600px;
+}
+
+.spik,.sit{
+float: right;
+color: whitesmoke;
+
+
+}
+
+.spik1,.sit1{
+    float: right;
+color: whitesmoke;
+}
+
+.spik2,.sit2{
+    float: right;
+    color: whitesmoke;  
+}
+
+.spik3,.sit3{
+    float: right;
+color: whitesmoke;
+}
+
